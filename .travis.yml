@@ -26,6 +26,7 @@ branches:
   only:
   - master
   - /^v\d/
+  - /^bumpdebian/
 notifications:
   email: false
   irc:
